@@ -36,6 +36,8 @@ Registration will be done electronically via the forms on or before 10 November 
 
 Only Youth and Senior entries will require passport page submission.
 
+**Note: Teams from SEABF NBOs should select SEABF entry. Teams with players not from SEABF NBOs should select ASEAN Bridge Club entry.**
+
 ## Entry Fees
 
 | Category     | Entry Fee       |
