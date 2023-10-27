@@ -34,6 +34,8 @@ Registration will be done electronically via the forms on or before 10 November 
 [Mixed Teams](https://forms.gle/HMCZBwojVTJs1iSW8) \
 [Open/Ladies/Senior/Youth Teams](https://forms.gle/aJVzpizdsha8ezX57)
 
+Only Youth and Senior entries will require passport page submission.
+
 ## Entry Fees
 
 | Category     | Entry Fee       |
