@@ -8,9 +8,9 @@ layout: default
 10 Dec 6pm - Delegates' Meeting \
 11 Dec - Open Pairs \
 12 Dec - Mixed Teams \
-13-15 Dec - Open/Ladies/Senior/Youth Teams \
+13-15 Dec - Open/Ladies/Senior/Youth Teams 
 
-15 Dec 7.30pm - Victory Dinner \
+15 Dec 7.30pm - Victory Dinner 
 
 Play is expected to be from 9.30am to 7pm; Actual schedule may differ due to number of teams/pairs.
 
@@ -56,4 +56,4 @@ Bank:	Development Bank of Singapore
 
 ## Accomodation
 
-Accomodation is available with meal options at the venue York Hotel.
+Accomodation is available with meal options at the venue York Hotel. [Click here for information on how to book discounted accomodation](SEABF_2023_Accomodation_Guide.pdf)
