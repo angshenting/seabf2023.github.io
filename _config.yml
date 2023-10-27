@@ -1,4 +1,4 @@
-theme: jekyll-theme-minimal
+theme: angshenting/minimal@master
 title: SEABF 2023 Championships
 description: Tournament Information
 logo: SEABF_logo.png
