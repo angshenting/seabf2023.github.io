@@ -29,9 +29,9 @@ All eligible players must be born before 1st January 1960 (i.e. birth year of 19
 ## Registration
 
 Registration
-Registration will be done electronically via the forms on or before 10 November 2023 as linked below:
-[Open Pairs](https://forms.gle/Lf9r7sWh9KFn1dyV6)
-[Mixed Teams](https://forms.gle/HMCZBwojVTJs1iSW8)
+Registration will be done electronically via the forms on or before 10 November 2023 as linked below: \
+[Open Pairs](https://forms.gle/Lf9r7sWh9KFn1dyV6) \
+[Mixed Teams](https://forms.gle/HMCZBwojVTJs1iSW8) \
 [Open/Ladies/Senior/Youth Teams](https://forms.gle/aJVzpizdsha8ezX57)
 
 ## Entry Fees
