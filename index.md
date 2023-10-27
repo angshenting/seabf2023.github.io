@@ -5,12 +5,12 @@ layout: default
 
 
 ## Tournament Schedule
-10 Dec 6pm - Delegates' Meeting
-11 Dec - Open Pairs
-12 Dec - Mixed Teams
-13-15 Dec - Open/Ladies/Senior/Youth Teams
+10 Dec 6pm - Delegates' Meeting \
+11 Dec - Open Pairs \
+12 Dec - Mixed Teams \
+13-15 Dec - Open/Ladies/Senior/Youth Teams \
 
-15 Dec 7.30pm - Victory Dinner
+15 Dec 7.30pm - Victory Dinner \
 
 Play is expected to be from 9.30am to 7pm; Actual schedule may differ due to number of teams/pairs.
 
@@ -49,9 +49,9 @@ Registration will be done electronically via the forms on or before 10 November 
 
 Please remit all entry fees on or before 10 November 2023 to:
 
-Account Name:	Singapore Contract Bridge Association
-SWIFT: DBSSSGSG
-Account Number:	070-002373-3
+Account Name:	Singapore Contract Bridge Association \
+SWIFT: DBSSSGSG \
+Account Number:	070-002373-3 \
 Bank:	Development Bank of Singapore
 
 ## Accomodation
