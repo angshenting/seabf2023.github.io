@@ -5,14 +5,36 @@ layout: default
 
 
 ## Tournament Schedule
-10 Dec 6pm - Delegates' Meeting \
-11 Dec - Open Pairs \
-12 Dec - Mixed Teams \
-13-15 Dec - Open/Ladies/Senior/Youth Teams 
 
-15 Dec 7.30pm - Victory Dinner 
-
-Play is expected to be from 9.30am to 7pm; Actual schedule may differ due to number of teams/pairs.
+| Sunday<br>10 Dec 2023    | 18:00 - 19:30     | Delegate's Meeting  |
+| ------------------------ | ----------------- | ------------------- |
+| 19:30 - 21:30            | Delegate's Dinner |
+| Monday<br>11 Dec 2023    | 09:30 - 13:30     | Open<br>Pairs       | Session 1 |
+| 15:00 - 19:00            | Session 2         |
+| Tuesday<br>12 Dec 2023   | 09:30 - 10:30     | Mixed<br>Teams      | Round 1 |
+| 10:45 - 11:45            | Round 2           |
+| 12:00 - 13:00            | Round 3           |
+| 14:15 - 15:15            | Round 4           |
+| 15:30 - 16:30            | Round 5           |
+| 16:45 - 17:45            | Round 6           |
+| 18:00 - 19:00            | Round 7           |
+| Wednesday<br>13 Dec 2023 | 09:30 - 11:00     | Qualifying<br>Teams | Round 1 |
+| 11:15 - 12:45            | Round 2           |
+| 14:00 - 15:30            | Round 3           |
+| 15:45 - 17:15            | Round 4           |
+| 17:30 - 19:00            | Round 5           |
+| Thursday<br>14 Dec 2023  | 09:30 - 11:00     | Round 6             |
+| 11:15 - 12:45            | Round 7           |
+| 14:00 - 15:30            | Round 8           |
+| 15:45 - 17:15            | Round 9           |
+| 17:30 - 19:00            | Round 10          |
+| Friday<br>15 Dec 2023    | 09:30 - 10:30     | Consols 1           | Finals 1 |
+| 10:45 - 11:45            | Consols 2         |
+| 13:00 - 14:00            | Consols 3         | Finals 2            |
+| 14:15 - 15:15            | Consols 4         |
+| 15:30 - 16:30            | Consols 5         | Finals 3            |
+| 16:45 - 17:45            | Consols 6         |
+| 19:00 - 22:00            | Victory Dinner    |
 
 ## Eligibility
 
