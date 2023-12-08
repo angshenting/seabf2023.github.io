@@ -3,6 +3,10 @@ layout: default
 ---
 # SEABF Championships 2023 Mini-Site
 
+## Results
+[Results Site](https://www.ccba.org.cn/Tour/TourIndex.aspx?tourid=27513)
+
+[Registered Teams List](https://www.ccba.org.cn/Tour/TourTeamItemsList.aspx?tourid=27513)
 
 ## Tournament Schedule
 
