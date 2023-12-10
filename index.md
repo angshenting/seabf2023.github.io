@@ -17,6 +17,10 @@ layout: default
 
 ## [Conditions of Contest](SEABF_2023-Conditions_of_Contest.pdf)
 
+## Bulletins
+
+[Bulletin 1](SEABF_2023_Bulletin_Day1.pdf)
+
 
 ## Eligibility
 
