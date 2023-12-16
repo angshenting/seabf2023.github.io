@@ -19,11 +19,11 @@ layout: default
 
 ## Bulletins
 
-[Bulletin 1](SEABF_2023_Bulletin_Day1.pdf)
-[Bulletin 2](SEABF_2023_Bulletin_Day2.pdf)
-[Bulletin 3](SEABF_2023_Bulletin_Day3.pdf)
-[Bulletin 4](SEABF_2023_Bulletin_Day4_revised.pdf)
-[Bulletin 5](SEABF_2023_Bulletin_Day5.pdf)
+[Bulletin 1](SEABF_2023_Bulletin_Day1.pdf) \
+[Bulletin 2](SEABF_2023_Bulletin_Day2.pdf) \
+[Bulletin 3](SEABF_2023_Bulletin_Day3.pdf) \
+[Bulletin 4](SEABF_2023_Bulletin_Day4_revised.pdf) \
+[Bulletin 5](SEABF_2023_Bulletin_Day5.pdf) \
 [Bulletin 6](SEABF_2023_Bulletin_Day6.pdf)
 
 ## Eligibility
